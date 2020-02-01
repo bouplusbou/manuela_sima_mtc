@@ -18,10 +18,10 @@
     </section>
     <section class="p-12 lg:p-32 lg:flex lg:justify-around">
       <img
-        style="height: 600px; width: auto; max-width: 400px"
         src="@/assets/manuela_sima.jpeg"
         alt="photo de Manuela Sima"
-        class="mb-12 mx-auto lg:mb-0 lg:mr-16"
+        style="height: 500px"
+        class="mb-12 mx-auto lg:mb-0 lg:mr-16 object-cover"
       />
       <div>
         <p class="text-blue-600 text-2xl">Manuela Sima</p>
@@ -272,8 +272,8 @@
       <div class="w-2/3 mx-auto text-center">
         <p class="text-3xl font-medium text-blue-600 mb-8">Contactez-moi</p>
         <p>
-          Pour prendre rendez-vous, vous pouvez me contacter <br />
-          par téléphone ou par email.
+          Pour prendre rendez-vous, vous pouvez me contacter par téléphone ou
+          par email.
           <br />
           <br />
           Téléphone: <strong class="text-xl">07 66 81 01 66</strong>
