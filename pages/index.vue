@@ -79,6 +79,7 @@
               width: 700px;
               background-color: #6d8e52;
             }
+
             @media (max-width: 1024px) {
               .boxy {
                 width: 100%;
@@ -126,12 +127,14 @@
             grid-template-columns: 1fr 1fr 1fr 1fr;
             grid-gap: 25px;
           }
+
           @media (max-width: 1280px) {
             .tools {
               grid-template-columns: 1fr 1fr;
               grid-gap: 100px;
             }
           }
+
           @media (max-width: 640px) {
             .tools {
               grid-template-columns: 1fr;
@@ -227,17 +230,16 @@
             class="mb-4 mx-auto lg:h-48 lg:w-auto w-full"
           />
           <p class="font-bold mb-4 text-center sm:text-left">
-            Pharmacopée Traditionnelle Chinoise
+            Compléments alimentaires
           </p>
           <p>
-            Comme partout dans le monde et de tout temps, les êtres humains ont
-            essayé d’extraire de leur environnement des substances,
-            essentiellement des plantes, permettant de se préserver des maladies
-            et de recouvrer la santé.
+            Partout dans le monde et de tout temps, les êtres humains ont essayé
+            d’utiliser les plantes pour se préserver des maladies et recouvrer
+            la santé.
           </p>
           <br />
           <p>
-            Les Chinois ont répertorié et classé ces substances selon leurs
+            Les Chinois ont répertorié et classé les plantes selon leurs
             qualités énergétiques : leur nature qui s'exprime à travers un effet
             "thermique", leur saveur qui agit sur le mouvement et la direction
             de circulation de l’énergie et leur tropisme qui permet de polariser
@@ -246,8 +248,8 @@
           </p>
           <br />
           <p>
-            L’utilisation de ces substances, le plus souvent en décoction,
-            favorise le rétablissement de l’équilibre énergétique.
+            L’utilisation de ces plantes, le plus souvent en décoction, favorise
+            le rétablissement de l’équilibre énergétique.
           </p>
         </div>
       </div>
