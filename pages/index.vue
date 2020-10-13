@@ -1,6 +1,16 @@
 <template>
   <div class="text-gray-800">
-    <header class="p-8">
+    <section class="mt-32">
+      <div class="w-2/3 mx-auto text-center">
+        <p>
+          Pour plus d'informations vous pouvez me contacter par email.
+          <br />
+          <br />
+          Email: <strong class="text-xl">harqimed@gmail.com</strong>
+        </p>
+      </div>
+    </section>
+    <!-- <header class="p-8">
       <p class="text-blue-600 text-center">
         {{ 'Manuela Sima - Energétique Traditionnelle Chinoise'.toUpperCase() }}
       </p>
@@ -290,7 +300,7 @@
         Manuela Sima, Praticienne en Energétique Traditionnelle Chinoise dans
         l'Essonne 91
       </p>
-    </footer>
+    </footer> -->
   </div>
 </template>
 
